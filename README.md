@@ -35,5 +35,6 @@ A sophisticated, fully responsive front-end concept featuring minimalist grids, 
 ## 🌐 Connect With Me
 
 * 💼 *LinkedIn:* [linkedin.com/in/i-alishba-e](https://www.linkedin.com/)
-* 📧 *Email:* [Your Professional Email Here]
+* 📧 *Email:* user678707@gmail.com
+* 
 *
